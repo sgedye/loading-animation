@@ -1,0 +1,2 @@
+.loading>h1,.loading>h2,.loading>p{color:transparent;background:linear-gradient(100deg,#ececec 25%,#f6f7f8 50%,#ececec 75%);background-size:400%;-webkit-animation:loading 1.2s ease-in-out infinite;animation:loading 1.2s ease-in-out infinite}@-webkit-keyframes loading{0%{background-position:100% 50%}to{background-position:0 50%}}@keyframes loading{0%{background-position:100% 50%}to{background-position:0 50%}}
+/*# sourceMappingURL=main.14456171.chunk.css.map */
